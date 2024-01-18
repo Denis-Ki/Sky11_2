@@ -1,4 +1,4 @@
-def make_big_symbols(line):
+def make_all_symbols_big(line):
     '''
     Функция делает все буквы большими
     '''
